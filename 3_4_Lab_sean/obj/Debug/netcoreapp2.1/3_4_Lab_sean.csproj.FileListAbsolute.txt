@@ -1,0 +1,11 @@
+C:\Users\student\source\repos\3_4_Lab_sean\3_4_Lab_sean\bin\Debug\netcoreapp2.1\3_4_Lab_sean.deps.json
+C:\Users\student\source\repos\3_4_Lab_sean\3_4_Lab_sean\bin\Debug\netcoreapp2.1\3_4_Lab_sean.runtimeconfig.json
+C:\Users\student\source\repos\3_4_Lab_sean\3_4_Lab_sean\bin\Debug\netcoreapp2.1\3_4_Lab_sean.runtimeconfig.dev.json
+C:\Users\student\source\repos\3_4_Lab_sean\3_4_Lab_sean\bin\Debug\netcoreapp2.1\3_4_Lab_sean.dll
+C:\Users\student\source\repos\3_4_Lab_sean\3_4_Lab_sean\bin\Debug\netcoreapp2.1\3_4_Lab_sean.pdb
+C:\Users\student\source\repos\3_4_Lab_sean\3_4_Lab_sean\obj\Debug\netcoreapp2.1\3_4_Lab_sean.csprojAssemblyReference.cache
+C:\Users\student\source\repos\3_4_Lab_sean\3_4_Lab_sean\obj\Debug\netcoreapp2.1\3_4_Lab_sean.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\3_4_Lab_sean\3_4_Lab_sean\obj\Debug\netcoreapp2.1\3_4_Lab_sean.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\3_4_Lab_sean\3_4_Lab_sean\obj\Debug\netcoreapp2.1\3_4_Lab_sean.AssemblyInfo.cs
+C:\Users\student\source\repos\3_4_Lab_sean\3_4_Lab_sean\obj\Debug\netcoreapp2.1\3_4_Lab_sean.dll
+C:\Users\student\source\repos\3_4_Lab_sean\3_4_Lab_sean\obj\Debug\netcoreapp2.1\3_4_Lab_sean.pdb
